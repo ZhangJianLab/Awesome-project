@@ -4,6 +4,8 @@
 
 
 ## [Ai studio project](https://aistudio.baidu.com/aistudio/projectdetail/3634835?contributionType=1)
-### 代码仍然在整理中，敬请期待
+### 代码仍然在整理中，敬请期待，将于近几周公布
 ### Code is under preparing. We will release the source code and pretrained weight.
+
+
 
