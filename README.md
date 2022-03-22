@@ -5,7 +5,7 @@
 
 ## [Ai studio project](https://aistudio.baidu.com/aistudio/projectdetail/3634835?contributionType=1)
 ### 代码已经在AI studio上公开，感兴趣同学可以去参观
-### Our code has been made publicly available at [Ai studio project](https://aistudio.baidu.com/aistudio/projectdetail/3634835?contributionType=1)
+### Our code has also been made publicly available at [Ai studio project](https://aistudio.baidu.com/aistudio/projectdetail/3634835?contributionType=1)
 
 
 
